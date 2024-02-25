@@ -1,5 +1,6 @@
 # AngularJS Phone Catalog Tutorial Application
-
+The original git repo can be found here: https://github.com/angular/angular-phonecat  
+For this repo, a new Git project was initialized, so the git checkout steps mentioned further down will not work for this repo.
 
 ## Overview
 
